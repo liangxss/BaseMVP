@@ -8,6 +8,7 @@ import com.liang.basemvp.presenter.OnWeatherListener;
 import com.liang.basemvp.presenter.WeatherPresenter;
 
 /**
+ * @author liang
  * 天气 Prestener实现
  */
 public class WeatherPresenterImpl implements WeatherPresenter, OnWeatherListener {
