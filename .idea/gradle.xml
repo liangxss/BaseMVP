@@ -10,14 +10,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/ptr-lib" />
+=======
+>>>>>>> 3933f922d0054b8fbecbe1955483b4471e0aba50
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/ptr-lib" />
+=======
+>>>>>>> 3933f922d0054b8fbecbe1955483b4471e0aba50
           </set>
         </option>
       </GradleProjectSettings>
