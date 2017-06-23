@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\label.png",
+        "source": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\label.png"
+    },
+    {
+        "merged": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tag.png",
+        "source": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\tag.png"
+    },
+    {
+        "merged": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_bulletin.png",
+        "source": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_bulletin.png"
+    },
+    {
+        "merged": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\test_img.jpg",
+        "source": "E:\\android\\workspace\\workspace_huafer\\huafer\\huafer-android\\SpannableLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\test_img.jpg"
+    }
+]
