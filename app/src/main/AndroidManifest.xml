@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD
     package="com.liang.basemvp"
     android:versionCode="1"
     android:versionName="1.0.0">
 
     <uses-permission android:name="android.permission.INTERNET" />
-=======
-    package="com.liang.basemvp">
 
->>>>>>> 3933f922d0054b8fbecbe1955483b4471e0aba50
     <application
         android:name="com.liang.basemvp.MyApplication"
         android:allowBackup="true"
@@ -17,11 +13,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-<<<<<<< HEAD
         <activity android:name=".activity.PrtListActivity">
-=======
-        <activity android:name=".activity.MainActivity">
->>>>>>> 3933f922d0054b8fbecbe1955483b4471e0aba50
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

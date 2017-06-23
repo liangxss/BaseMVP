@@ -1,5 +1,2 @@
 include ':app'
-<<<<<<< HEAD
 include ':ptr-lib'
-=======
->>>>>>> 3933f922d0054b8fbecbe1955483b4471e0aba50
